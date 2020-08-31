@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/CRD_Homework/v16
+/.vs/CRD_Assignment/v16
+/.vs
+/CRD_Assignment/bin/Debug/netcoreapp3.1
+/CRD_Assignment/obj
+/CRD_AssignmentTest/bin/Debug/netcoreapp3.1
+/CRD_AssignmentTest/obj/Debug/netcoreapp3.1
+/CRD_AssignmentTest/obj/Release/netcoreapp3.1
+/CRD_AssignmentTest/obj
